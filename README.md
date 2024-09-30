@@ -8,7 +8,7 @@ A simple implementation of the classic Tic Tac Toe game using Pygame. This game 
 - Play against the computer (1vComp mode).
 - Visual display of the game board.
 - Clear indication of the winner or if the game ends in a draw.
-- 
+  
 ## HOW TO RUN THE FILE
 
 1. Install the required libraries:
